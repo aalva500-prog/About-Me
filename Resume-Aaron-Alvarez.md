@@ -8,13 +8,13 @@ development, and fundamental programming. Accustomed to providing integral techn
 troubleshooting related to hardware and software.
 
 ## EDUCATION
-**Florida International University - Miami FL | 05/2018 - 12/2020**
+### Florida International University - Miami FL | May, 2018 - September, 2020
   * B.S. in Information Technology | GPA: 3.95/4.00
   * Dean’s List: Summer 2018, Summer 2019, Fall 2019, Spring 2020, Summer 2020.
   * Activities: The Honor Society of Phi Kappa Phi and the Honor Society of Upsilon Pi Epsilon (UPE).
-### University APEC (UNAPEC) - Santo Domingo, DR | 05/2014 - 09/2015
+### University APEC (UNAPEC) - Santo Domingo, DR | May, 2014 - September, 2015
   * Coursework in Software Engineering
-### Polytechnic Institute Jose Antonio Echevarría - Havana, Cuba | 09/2009 - 06/2013
+### Polytechnic Institute Jose Antonio Echevarría - Havana, Cuba | September, 2009 - June, 2013
   * Coursework in Computer Engineering
   
 ## SKILLS
@@ -23,3 +23,25 @@ troubleshooting related to hardware and software.
   * **Database:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL, Access.
   * **Languages:** English and Spanish.
   * CompTIA A+ Certified.
+  
+## PROFESSIONAL EXPERIENCE
+### Technical Support Specialist | Javier Ricardo MD PA - Miami FL | March, 2016 - Present
+ * Supported the computer system by providing technical solutions to a variety of software and
+hardware issues commonly encountered in daily business activities.
+ * Implemented a new EHR system, which contributed to an improvement in daily office operations
+by more than 90%.
+ * Executed an upgrade of technology devices such as printers and workstations, which contributed to
+a performance increase of over 70%.
+ * Assisted with day-to-day operations, including managing schedules, writing technical documents,
+among others.
+### IT Support Specialist | Oliver & Oliver International – Dominican Republic | July, 2013 - September, 2015
+ * Developed a desktop application to control the inventory of the company, which increased productivity
+by more of 70%. (Java, PostgreSQL)
+ * Built a desktop application to calculate the cost of the products used in the company, which contributed
+in more than 50% to streamline the internal process of the accounting department. (Java, PostgreSQL)
+ * Maintained database systems and implemented backups. (Microsoft SQL Server, PostgreSQL,
+Access)
+ * Supported a computer system of over 100 end-users by providing solutions to technology issues
+and requests.
+ * Played a key role in the acquisition of a new printing system for the design department, which enhanced
+the department performance by more than 70%.
