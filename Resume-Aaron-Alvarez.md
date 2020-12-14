@@ -5,7 +5,7 @@
 A motivated and highly skilled IT Professional who possesses an insatiable desire for knowledge. Highly adept
 in analysis, problem solving, and conflict resolution. Experienced with database design and creation, website
 development, and fundamental programming. Accustomed to providing integral technical support and
-troubleshooting related to hardware and software. &nbsp; &nbsp; 
+troubleshooting related to hardware and software.
 
 ## EDUCATION
 ### Florida International University - Miami FL | May, 2018 - September, 2020
@@ -13,16 +13,16 @@ troubleshooting related to hardware and software. &nbsp; &nbsp;
   * Dean’s List: Summer 2018, Summer 2019, Fall 2019, Spring 2020, Summer 2020, Fall 2020.
   * Activities: The Honor Society of Phi Kappa Phi and the Honor Society of Upsilon Pi Epsilon (UPE).
 ### University APEC (UNAPEC) - Santo Domingo, DR | May, 2014 - September, 2015
-  * Coursework in Software Engineering
+  * Coursework in Software Engineering.
 ### Polytechnic Institute Jose Antonio Echevarría - Havana, Cuba | September, 2009 - June, 2013
-  * Coursework in Computer Engineering &nbsp; &nbsp; 
+  * Coursework in Computer Engineering.
   
 ## SKILLS
   * **Programming:** Java, Python, Visual Basic, SQL, HTML, CSS, PHP.
   * **IDE’s:** Visual Studio, PyCharm, Eclipse, NetBeans.
   * **Database:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL, Access.
   * **Languages:** English and Spanish.
-  * CompTIA A+ Certified. &nbsp; &nbsp; 
+  * CompTIA A+ Certified.
   
 ## PROFESSIONAL EXPERIENCE
 ### Technical Support Specialist | Javier Ricardo MD PA - Miami FL | March, 2016 - Present
