@@ -16,3 +16,10 @@ troubleshooting related to hardware and software.
   * Coursework in Software Engineering
 ### Polytechnic Institute Jose Antonio Echevarría - Havana, Cuba | 09/2009 - 06/2013
   * Coursework in Computer Engineering
+  
+## SKILLS
+  * **Programming:** Java, Python, Visual Basic, SQL, HTML, CSS, PHP.
+  * **IDE’s:** Visual Studio, PyCharm, Eclipse, NetBeans.
+  * **Database:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL, Access.
+  * **Languages:** English and Spanish.
+  * CompTIA A+ Certified.
