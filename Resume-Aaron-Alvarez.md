@@ -8,7 +8,7 @@ development, and fundamental programming. Accustomed to providing integral techn
 troubleshooting related to hardware and software.
 
 ## EDUCATION
-### Florida International University - Miami FL<pre>                                  </pre>05/2018 - 12/2020
+### Florida International University - Miami FL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 05/2018 - 12/2020
   * B.S. in Information Technology | GPA: 3.95
   * Dean’s List: Summer 2018, Summer 2019, Fall 2019, Spring 2020, Summer 2020.
   * Activities: The Honor Society of Phi Kappa Phi and the Honor Society of Upsilon Pi Epsilon (UPE).
