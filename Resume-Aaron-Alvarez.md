@@ -9,7 +9,7 @@ troubleshooting related to hardware and software.
 
 ## EDUCATION
 ### Florida International University - Miami FL | May, 2018 - September, 2020
-  * B.S. in Information Technology | GPA: 3.95/4.00
+  * B.S. in Information Technology | GPA: 3.96/4.00
   * Dean’s List: Summer 2018, Summer 2019, Fall 2019, Spring 2020, Summer 2020, Fall 2020.
   * Activities: The Honor Society of Phi Kappa Phi and the Honor Society of Upsilon Pi Epsilon (UPE).
 ### University APEC (UNAPEC) - Santo Domingo, DR | May, 2014 - September, 2015
