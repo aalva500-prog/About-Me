@@ -1,6 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Aaron Alvarez, I have a Bachelor of Science in Information Technology from Florida Internatinal University. I am seeking a position in the IT field as a software engineer, data engineer, among others. Take a look at my resume and feel free to contact me. I look forward to meet you!!
+## My name is Aaron Alvarez, I have a Bachelor of Science in Information Technology from Florida Internatinal University. I am seeking a position in the IT field as a software engineer, data engineer, among others. Take a look at my resume and feel free to contact me. I look forward to meet you!!
+
+Resume: (https://github.com/aalva500-prog/Resume-Aaron-Alvarez/blob/main/Resume-Aaron-Alvarez.md)
 
 📫 How to reach me
 
