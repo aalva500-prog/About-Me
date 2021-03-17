@@ -18,14 +18,19 @@ troubleshooting related to hardware and software.
   * Coursework in Computer Engineering.
   
 ## SKILLS
-  * **Programming:** Java, Python, Visual Basic, SQL, HTML, CSS, PHP.
-  * **IDE’s:** Visual Studio, PyCharm, Eclipse, NetBeans.
+  * **Programming:** Java, Python, Visual Basic, SQL, HTML, CSS, PHP, Scala.
+  * **IDE’s:** Visual Studio, PyCharm, Eclipse, NetBeans, Spyder.
   * **Database:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL, Access.
+  * **Big Data:** Apache Spark (RDD, DF, DS), Apache Hadoop (MapReduce, HDFS).
+  * **Cloud:** Microsoft Azure.
   * **Languages:** English and Spanish.
   * CompTIA A+ Certified.
   
 ## PROFESSIONAL EXPERIENCE
-### Technical Support Specialist | Javier Ricardo MD PA - Miami FL | March, 2016 - Present
+### Data Engineer | Cognizant - Miami FL | January, 2021 - Present
+* Training in Big Data Azure Track.
+*	Training in Apache Spark (RDD, DF, DS) and Apache Hadoop (MapReduce, HDFS).
+### Technical Support Specialist | Javier Ricardo MD PA - Miami FL | March, 2016 - January, 2021
  * Supported the computer system by providing technical solutions to a variety of software and
 hardware issues commonly encountered in daily business activities.
  * Implemented a new EHR system, which contributed to an improvement in daily office operations
