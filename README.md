@@ -14,7 +14,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Visual Basic](https://img.shields.io/badge/-VisualBasic-333333?style=flat&logo=visual-basic)
+![Visual Basic](https://img.shields.io/badge/-VisualBasic-333333?style=flat&logo=visualBasic)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
