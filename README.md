@@ -28,3 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=00cc52)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=00cc52)
 ![Microsoft Access](https://img.shields.io/badge/-Access-333333?style=flat&logo=Access&logoColor=00cc52)
+![Scala](https://img.shields.io/badge/-Access-333333?style=flat&logo=Scala&logoColor=00cc52)
+![Spark](https://img.shields.io/badge/-Access-333333?style=flat&logo=Spark&logoColor=00cc52)
+![Hadoop](https://img.shields.io/badge/-Access-333333?style=flat&logo=Hadoop&logoColor=00cc52)
