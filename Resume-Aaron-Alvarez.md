@@ -27,7 +27,7 @@ troubleshooting related to hardware and software.
   * **Big Data:** Apache Spark (RDD, DF, DS), Apache Hadoop (MapReduce, HDFS).
   * **Cloud:** Microsoft Azure.
   * **Languages:** English and Spanish.
-  * CompTIA A+ Certified.
+  * Certifications: AZ-900 Azure Fundamentals and CompTIA A+.
   
 ## PROFESSIONAL EXPERIENCE
 ### Data Engineer | Cognizant - Miami FL | January, 2021 - Present
