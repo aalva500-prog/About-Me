@@ -8,8 +8,11 @@ development, and fundamental programming. Accustomed to providing integral techn
 troubleshooting related to hardware and software.
 
 ## EDUCATION
+### Florida Internation University - Miami FL | May, 2021 - May, 2023
+  * M.S. in Computer Science
 ### Florida International University - Miami FL | May, 2018 - September, 2020
   * B.S. in Information Technology | GPA: 3.96/4.00
+  * Degree Honors: Summa Cum Laude
   * Dean’s List: Summer 2018, Summer 2019, Fall 2019, Spring 2020, Summer 2020, Fall 2020.
   * Activities: The Honor Society of Phi Kappa Phi and the Honor Society of Upsilon Pi Epsilon (UPE).
 ### University APEC (UNAPEC) - Santo Domingo, DR | May, 2014 - September, 2015
@@ -28,8 +31,8 @@ troubleshooting related to hardware and software.
   
 ## PROFESSIONAL EXPERIENCE
 ### Data Engineer | Cognizant - Miami FL | January, 2021 - Present
-* Training in Big Data Azure Track.
-*	Training in Apache Spark (RDD, DF, DS) and Apache Hadoop (MapReduce, HDFS).
+* Trained in Big Data Azure Track.
+*	Trained in Apache Spark (RDD, DF, DS) and Apache Hadoop (MapReduce, HDFS).
 ### Technical Support Specialist | Javier Ricardo MD PA - Miami FL | March, 2016 - January, 2021
  * Supported the computer system by providing technical solutions to a variety of software and
 hardware issues commonly encountered in daily business activities.
