@@ -32,3 +32,5 @@
 ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=spark)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+![Spyder](https://img.shields.io/badge/-Spyder-333333?style=flat&logo=spyder)
+![Big Data](https://img.shields.io/badge/-BigData-333333?style=flat&logo=BigData)
