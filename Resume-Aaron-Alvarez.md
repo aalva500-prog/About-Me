@@ -8,7 +8,7 @@ development, and fundamental programming. Accustomed to providing integral techn
 troubleshooting related to hardware and software.
 
 ## EDUCATION
-### Florida Internation University - Miami FL | May, 2021 - May, 2023
+### Florida Internation University - Miami FL | May, 2021 - Present
   * M.S. in Computer Science
 ### Florida International University - Miami FL | May, 2018 - September, 2020
   * B.S. in Information Technology | GPA: 3.96/4.00
@@ -30,9 +30,20 @@ troubleshooting related to hardware and software.
   * Certifications: AZ-900 Azure Fundamentals and CompTIA A+.
   
 ## PROFESSIONAL EXPERIENCE
-### Data Engineer | Cognizant - Miami FL | January, 2021 - Present
-* Trained in Big Data Azure Track.
-*	Trained in Apache Spark (RDD, DF, DS) and Apache Hadoop (MapReduce, HDFS).
+### Cloud Support Engineer (Analytics) | AWS - Miami FL | June, 2021 - Present
+* Supported data streaming services such as Amazon OpenSearch Service, Kinesis Firehose, Kinesis Stream, Managed Streaming for Apache Kafka, Appflow, Kendra, among others.
+* Replicated complex customer scenarios that involved levaraging multiple services across AWS landscape and offered custom solutions to best meet customer's requirements.
+* Became familiar with AWS services, including S3, IAM, Ec2, VPV, among others.
+### Data Engineer | Cognizant - Miami FL | January, 2021 - June, 2022
+* Worked on Big Data Migration Project (Code Orange 2.0) for client GSK, building enterprise-level data pipelines
+to enable the ingestion of data (structured, semi-structured, and unstructured) from multiple source systems, as
+well as its analysis and transformation.
+* Analyzed different aspects of data, fixed issues, and worked on improving the performance of data fetch jobs.
+* Assisted senior level data engineers, and data scientists in the design of data pipelines and ETL processes.
+* Collaborated with an offshore team using Python, SQL, Spark, and Databricks to improve the processing speed of
+data.
+* Got trained in Big Data, including Microsoft Azure, Apache Spark (PySpark, SparkSQL), and Hadoop
+(MapReduce, HDFS).
 ### Technical Support Specialist | Javier Ricardo MD PA - Miami FL | March, 2016 - January, 2021
  * Supported the computer system by providing technical solutions to a variety of software and
 hardware issues commonly encountered in daily business activities.
