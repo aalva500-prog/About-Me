@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My name is Aaron Alvarez, I have a Bachelor of Science in Information Technology from Florida Internatinal University. I work as Data Engineer for Cognizant. Take a look at my profile and feel free to contact me. I look forward to meet you!!!
+### My name is Aaron Alvarez, I have a Bachelor of Science in Information Technology from Florida Internatinal University and am currently pursuing a Master's Degree in Computer Science with only 3 credits left to graduate. I work as a Cloud Support Engineer at AWS for the Analytics profile. Take a look at my profile and don't hesitate to contact me. I look forward to meet you!!!
 
 [![Resume](https://img.shields.io/badge/--MyResume?label=My-Resume&logo=Resume&style=social)](https://github.com/aalva500-prog/Resume-Aaron-Alvarez/blob/main/Resume-Aaron-Alvarez.md)
 
